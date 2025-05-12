@@ -5,7 +5,7 @@
 
 #define SIZE_CRC_TABLE 256
 
-const int LOAD_FACTOR = 2;
+const int LOAD_FACTOR = 10;
 const int CONST_REHASH = 2;
 const int MIN_SIZE_TABLE = 100;
 
